@@ -1,4 +1,6 @@
 Jordan Tsvetanov
 
-Side practice to create simple
+Practice to create simple
 Chat in Java.
+
+Practicing sockets, theards
